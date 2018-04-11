@@ -1,0 +1,17 @@
+.TodoList {
+    background-color: #b8e4e5;
+    color: #382100;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+	padding: 10px 20px;
+	list-style: none;
+	border: 5px solid #03a9f4;
+	border-radius: 25px;
+	line-height: 36px;
+	font-size: 30px;
+	width: 30%;
+	min-width: 200px;
+	opacity: 0.7;
+	font-family: 'Muli', sans-serif;
+}

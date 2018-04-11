@@ -1,0 +1,32 @@
+.TodoApp {
+    background-image: url('https://www.muralswallpaper.com/app/uploads/california-palms-beach-plain.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #3e6a6b;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 97vw;
+    height: 97vh; 
+}
+
+.TodoApp h3 {
+	color: white;
+	text-align: center;
+    font-family: 'Muli', sans-serif;
+    font-size: 30px;
+
+}
+
+.TodoApp h1 {
+	font-size: 45px;
+	line-height: 30px;
+	font-family: 'Muli', sans-serif;
+	font-weight: 400;
+    background-color: #96dade;
+    padding: 10px;
+    border-radius: 5px;
+}
